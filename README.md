@@ -30,5 +30,5 @@ El script se divide en varias secciones, cada una explorando un aspecto diferent
 
 # Uso
 
-Para ejecutar el script, asegúrate de tener Python instalado en tu sistema. Luego, simplemente ejecuta el script Python desde tu terminal:
+Para ejecutar el script, asegúrate de tener Python instalado en tu sistema. Luego, simplemente ejecuta el script Python desde tu terminal.
 
