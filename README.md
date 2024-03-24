@@ -2,6 +2,8 @@
 
 Este repositorio contiene un script de Python que explora varias funcionalidades de la biblioteca NumPy, una herramienta fundamental para computación científica en Python. El script cubre una amplia gama de operaciones básicas y avanzadas, así como técnicas para el manejo de datos multidimensionales.
 
+![Python Logo](https://github.com/MontielAguilar/43-Ejercicios-Numpy/blob/main/python-logo.png)
+
 # Contenido
 
 El script se divide en varias secciones, cada una explorando un aspecto diferente de NumPy:
